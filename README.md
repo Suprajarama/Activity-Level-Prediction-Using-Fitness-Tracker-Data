@@ -11,6 +11,7 @@ construction and diverse feature sets in developing effective systems for behavi
 data for personalized health monitoring and lifestyle interventions.
 
 NOTE:
+
 Fitness Tracker Project (1).ipynb is the source code before adding the composite score.
 
 Activity_prediction_sourcecode.ipynb is the cource code after adding the composite score and re-engineered the features.
